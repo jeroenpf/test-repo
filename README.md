@@ -1,4 +1,2 @@
 # test-repo
-HI
-
-:-)
+I am a readme
